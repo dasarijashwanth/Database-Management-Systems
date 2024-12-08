@@ -10,7 +10,7 @@ This course teaches Oracle SQL programming in detail along with introduction to 
 
 Core concepts of a Database Management System (DBMS) are covered explaining the following functions such as store, retrieve, define, and manage data in a database.
 
-# TECHNOLOGY USED >> SOFTWARE
+# TECHNOLOGY USED >>> SOFTWARE
 This course will be using the following technologies through FAU Virtual Apps: https://www.fau.edu/oit/virtual-apps/
 
 • Visio 2013/2016 or LucidChart
