@@ -12,5 +12,7 @@ store, retrieve, define, and manage data in a database
 # SOFTWARE
 This course will be using the following technologies through FAU Virtual Apps: https://www.fau.edu/oit/virtual-apps/
 • Visio 2013/2016 or LucidChart
+
 • Oracle 21c SQL Developer or OracleLiveSQL
+
 • MySQL
