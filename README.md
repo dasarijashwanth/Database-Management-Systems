@@ -20,6 +20,7 @@ https://www.lucidchart.com/pages/lucidchart-vs-visio
 https://livesql.oracle.com/ords
 
 • MySQL
+https://www.mysql.com/products/workbench/
 
 YOU CAN GO THROUGH THE COURSE HERE: https://canvas.fau.edu/courses/159920
 
