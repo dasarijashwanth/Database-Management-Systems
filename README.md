@@ -1,6 +1,6 @@
 # Database-Management-Systems
 
-<span style="color:red">ISM6217-003 Database Management Systems PROJECTS</span>
+# ISM6217-003 Database Management Systems PROJECTS
 
 This course focuses on the development of well-formed databases to manage data from initial database design to implementation, query, analysis. 
 
