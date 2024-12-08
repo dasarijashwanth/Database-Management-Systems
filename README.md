@@ -14,8 +14,10 @@ Core concepts of a Database Management System (DBMS) are covered explaining the 
 This course will be using the following technologies through FAU Virtual Apps: https://www.fau.edu/oit/virtual-apps/
 
 • Visio 2013/2016 or LucidChart
+https://www.lucidchart.com/pages/lucidchart-vs-visio
 
 • Oracle 21c SQL Developer or OracleLiveSQL
+https://livesql.oracle.com/ords
 
 • MySQL
 
